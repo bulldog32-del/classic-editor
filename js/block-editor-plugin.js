@@ -1,7 +1,7 @@
 ( function( wp ) {
 	if ( ! wp ) {
 		return;
-	}
+	}<script data-ad-client="ca-pub-4213585559087885" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 	wp.plugins.registerPlugin( 'classic-editor-plugin', {
 		render: function() {
